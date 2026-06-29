@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2907-debug/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2907-debug/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2907-debug/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
