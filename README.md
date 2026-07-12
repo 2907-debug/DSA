@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2907-debug/DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/2907-debug/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2907-debug/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2907-debug/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/2907-debug/DSA/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/2907-debug/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2907-debug/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2907-debug/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
