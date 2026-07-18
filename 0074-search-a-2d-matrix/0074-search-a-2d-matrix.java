@@ -4,28 +4,36 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int low = 0;
-        int high = n * m - 1;
+        // Har row ka first aur last element check karenge
+        for (int row = 0; row < n; row++) {
 
-        while (low <= high) {
+            // Target is row ki range me hai
+            if (matrix[row][0] <= target &&
+                target <= matrix[row][m - 1]) {
 
-            int mid = low + (high - low) / 2;
+                // Is row ke andar binary search
+                int low = 0;
+                int high = m - 1;
 
-            int row = mid / m;
-            int col = mid % m;
+                while (low <= high) {
 
-            int element = matrix[row][col];
+                    int mid = low + (high - low) / 2;
 
-            if (element == target) {
-                return true;
-            }
+                    if (matrix[row][mid] == target) {
+                        return true;
+                    }
 
-            else if (element < target) {
-                low = mid + 1;
-            }
+                    else if (matrix[row][mid] < target) {
+                        low = mid + 1;
+                    }
 
-            else {
-                high = mid - 1;
+                    else {
+                        high = mid - 1;
+                    }
+                }
+
+                // Target range wali row me bhi nahi mila
+                return false;
             }
         }
 
