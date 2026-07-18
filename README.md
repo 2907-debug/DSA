@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2907-debug/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2907-debug/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/2907-debug/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/2907-debug/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
