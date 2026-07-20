@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/2907-debug/DSA/tree/master/0069-sqrtx) |
 | [0009-palindrome-number](https://github.com/2907-debug/DSA/tree/master/0009-palindrome-number) |
+| [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2907-debug/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [0344-reverse-string](https://github.com/2907-debug/DSA/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/2907-debug/DSA/tree/master/0125-valid-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
