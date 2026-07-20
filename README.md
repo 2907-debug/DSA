@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/2907-debug/DSA/tree/master/0050-powx-n) |
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/2907-debug/DSA/tree/master/0069-sqrtx) |
+| [0009-palindrome-number](https://github.com/2907-debug/DSA/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
