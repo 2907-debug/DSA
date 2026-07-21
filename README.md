@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2907-debug/DSA/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/2907-debug/DSA/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [0796-rotate-string](https://github.com/2907-debug/DSA/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/2907-debug/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
