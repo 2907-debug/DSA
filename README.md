@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/2907-debug/DSA/tree/master/0229-majority-element-ii) |
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/2907-debug/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/2907-debug/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/2907-debug/DSA/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/2907-debug/DSA/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0796-rotate-string](https://github.com/2907-debug/DSA/tree/master/0796-rotate-string) |
+| [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
