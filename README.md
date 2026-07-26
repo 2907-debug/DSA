@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
 | [0013-roman-to-integer](https://github.com/2907-debug/DSA/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/2907-debug/DSA/tree/master/0229-majority-element-ii) |
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2907-debug/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0013-roman-to-integer](https://github.com/2907-debug/DSA/tree/master/0013-roman-to-integer) |
 | [0008-string-to-integer-atoi](https://github.com/2907-debug/DSA/tree/master/0008-string-to-integer-atoi) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
