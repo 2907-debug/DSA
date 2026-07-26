@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/2907-debug/DSA/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0013-roman-to-integer](https://github.com/2907-debug/DSA/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/2907-debug/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/2907-debug/DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
