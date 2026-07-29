@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/2907-debug/DSA/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/2907-debug/DSA/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/2907-debug/DSA/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/2907-debug/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
