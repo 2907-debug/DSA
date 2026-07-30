@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/2907-debug/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -159,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/2907-debug/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
