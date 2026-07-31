@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2907-debug/DSA/tree/master/0344-reverse-string) |
 | [0125-valid-palindrome](https://github.com/2907-debug/DSA/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0141-linked-list-cycle](https://github.com/2907-debug/DSA/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2907-debug/DSA/tree/master/0242-valid-anagram) |
 | [0013-roman-to-integer](https://github.com/2907-debug/DSA/tree/master/0013-roman-to-integer) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [0141-linked-list-cycle](https://github.com/2907-debug/DSA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/2907-debug/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
+| [0141-linked-list-cycle](https://github.com/2907-debug/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
