@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/2907-debug/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/2907-debug/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/2907-debug/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2907-debug/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2907-debug/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/2907-debug/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2907-debug/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
