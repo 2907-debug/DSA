@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0013-roman-to-integer](https://github.com/2907-debug/DSA/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0002-add-two-numbers](https://github.com/2907-debug/DSA/tree/master/0002-add-two-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/2907-debug/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/2907-debug/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
+| [0002-add-two-numbers](https://github.com/2907-debug/DSA/tree/master/0002-add-two-numbers) |
 ## Array
 |  |
 | ------- |
@@ -172,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/2907-debug/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/2907-debug/DSA/tree/master/0328-odd-even-linked-list) |
+| [0002-add-two-numbers](https://github.com/2907-debug/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
