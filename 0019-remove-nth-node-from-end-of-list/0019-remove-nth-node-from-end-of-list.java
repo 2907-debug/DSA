@@ -14,7 +14,7 @@ class Solution {
         int count = 0;
         ListNode temp = head;
 
-        // ✅ Pehle total nodes count karo
+        //  Pehle total nodes count karo
         while (temp != null) {
             count++;
             temp = temp.next;
@@ -34,7 +34,7 @@ class Solution {
 
         
         // distance - 1 steps chalo.
-        for (int i = 1; i < distance; i++) {
+        for (int i = 0; i < distance-1; i++) {
             temp = temp.next;
         }
 
