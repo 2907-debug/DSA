@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/2907-debug/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2907-debug/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2907-debug/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +180,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/2907-debug/DSA/tree/master/0328-odd-even-linked-list) |
 | [0002-add-two-numbers](https://github.com/2907-debug/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2907-debug/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
