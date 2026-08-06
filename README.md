@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2907-debug/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
