@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/2907-debug/DSA/tree/master/0008-string-to-integer-atoi) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2907-debug/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2907-debug/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
