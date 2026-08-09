@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2907-debug/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/2907-debug/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2907-debug/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/2907-debug/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2907-debug/DSA/tree/master/0234-palindrome-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
