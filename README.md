@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2907-debug/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
