@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2907-debug/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0118-pascals-triangle](https://github.com/2907-debug/DSA/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2907-debug/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 ## String
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
