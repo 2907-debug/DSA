@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0735-asteroid-collision](https://github.com/2907-debug/DSA/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,4 +226,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
