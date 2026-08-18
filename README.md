@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/2907-debug/DSA/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/2907-debug/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/2907-debug/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/2907-debug/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/2907-debug/DSA/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/2907-debug/DSA/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/2907-debug/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
