@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2907-debug/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/2907-debug/DSA/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/2907-debug/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/2907-debug/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/2907-debug/DSA/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
