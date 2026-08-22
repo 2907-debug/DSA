@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2907-debug/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2907-debug/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/2907-debug/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2907-debug/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0020-valid-parentheses](https://github.com/2907-debug/DSA/tree/master/0020-valid-parentheses) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2907-debug/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/2907-debug/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2907-debug/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/2907-debug/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
