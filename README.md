@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [0904-fruit-into-baskets](https://github.com/2907-debug/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/2907-debug/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/2907-debug/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/2907-debug/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/2907-debug/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
