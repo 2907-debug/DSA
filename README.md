@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2907-debug/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2907-debug/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/2907-debug/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/2907-debug/DSA/tree/master/0239-sliding-window-maximum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2907-debug/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
