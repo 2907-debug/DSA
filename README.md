@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2907-debug/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2907-debug/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/2907-debug/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2907-debug/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/2907-debug/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2907-debug/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/2907-debug/DSA/tree/master/0239-sliding-window-maximum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Counting Sort
 |  |
 | ------- |
