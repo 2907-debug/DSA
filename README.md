@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0930-binary-subarrays-with-sum](https://github.com/2907-debug/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2907-debug/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2907-debug/DSA/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2907-debug/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [0992-subarrays-with-k-different-integers](https://github.com/2907-debug/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/2907-debug/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2907-debug/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -307,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2907-debug/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -315,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
