@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
+| [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/2907-debug/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
+| [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 ## Counting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
+| [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 ## String Matching
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
+| [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 ## Counting Sort
 |  |
 | ------- |
