@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/2907-debug/DSA/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/2907-debug/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/2907-debug/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## String Matching
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Counting Sort
 |  |
 | ------- |
