@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/2907-debug/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
+| [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
 ## Counting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/2907-debug/DSA/tree/master/1046-last-stone-weight) |
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
 ## Counting Sort
 |  |
 | ------- |
