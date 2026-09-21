@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/2907-debug/DSA/tree/master/0502-ipo) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
+| [0039-combination-sum](https://github.com/2907-debug/DSA/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2907-debug/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/2907-debug/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
