@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/2907-debug/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2907-debug/DSA/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/2907-debug/DSA/tree/master/0901-online-stock-span) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2907-debug/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,4 +366,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/2907-debug/DSA/tree/master/0039-combination-sum) |
 | [0022-generate-parentheses](https://github.com/2907-debug/DSA/tree/master/0022-generate-parentheses) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2907-debug/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2907-debug/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2907-debug/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2907-debug/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
