@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/2907-debug/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/2907-debug/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2907-debug/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0112-path-sum](https://github.com/2907-debug/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/2907-debug/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/2907-debug/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2907-debug/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0112-path-sum](https://github.com/2907-debug/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/2907-debug/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/2907-debug/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2907-debug/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0112-path-sum](https://github.com/2907-debug/DSA/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/2907-debug/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/2907-debug/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2907-debug/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0112-path-sum](https://github.com/2907-debug/DSA/tree/master/0112-path-sum) |
 ## Binary Lifting
 |  |
 | ------- |
