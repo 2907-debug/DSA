@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/2907-debug/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0630-course-schedule-iii](https://github.com/2907-debug/DSA/tree/master/0630-course-schedule-iii) |
 | [0039-combination-sum](https://github.com/2907-debug/DSA/tree/master/0039-combination-sum) |
+| [0001-two-sum](https://github.com/2907-debug/DSA/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/2907-debug/DSA/tree/master/0621-task-scheduler) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/2907-debug/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2907-debug/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0001-two-sum](https://github.com/2907-debug/DSA/tree/master/0001-two-sum) |
 ## Sorting
 |  |
 | ------- |
